@@ -43,8 +43,9 @@ bash camshot.sh
 <p><b>Version: 1.4:</b> Ngrok authtoken update</p>
 <p><b>Version: 1.3:</b> Fix ngrok direct link</p>
 
-### Video Demo
-[![CamPhish Update demo](https://img.youtube.com/vi/i7tvDJx3-yw/0.jpg)](https://www.youtube.com/watch?v=i7tvDJx3-yw)
-#### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
+### Camshot
+![image](https://user-images.githubusercontent.com/79138028/216158972-35c44302-08d3-4989-9dbd-0e0c38cc2c87.png)
+
+#### For More Video subcribe <a href="http://youtube.com/caarifmediatech">Caarif Media Tech</a>
 <p>CamShot is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>CamShot is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
